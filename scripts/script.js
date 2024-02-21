@@ -78,5 +78,5 @@ function reiniciarJogo() {
     }
 }
 
-
+//cabo mano
 
